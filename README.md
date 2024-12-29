@@ -1,4 +1,7 @@
 # Neuroinformatics-Models
+
+*by Younginn Park*
+
 Sample simulations of selected neuroinformatics models
 
 ## Contents
